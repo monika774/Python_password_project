@@ -1,2 +1,2 @@
 # mynamemonika
-i am web developer
+i am python developer
